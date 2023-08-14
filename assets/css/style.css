@@ -1279,7 +1279,7 @@ textarea.input-field {
   .section-subtitle {
     position: absolute;
     top: 0;
-    left: 0;
+    left: -20px;
     transform: rotate(0.75turn) translateX(-100%);
     transform-origin: left top;
     margin-bottom: 0;
