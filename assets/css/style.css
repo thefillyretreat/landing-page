@@ -1619,3 +1619,7 @@ textarea.input-field {
   }
 
 }
+
+.text-white {
+  color: white !important;
+}
